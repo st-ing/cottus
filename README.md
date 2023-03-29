@@ -1,11 +1,8 @@
 # **Cottus** -  Manufacturing Execution System (MES) for Industry 5.0
 
 
-<p align="center" style="width: 20%">
+<p align="center"><img src="logo.gif" width='256px'></p>
 
-![](logo.gif)
-
-</p>
 
 **Cottus** (Κόττος) is the next generation manufacturing system that augments manufacturing operations through the use of standardised multilayered framework.
 
