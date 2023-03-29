@@ -1,7 +1,7 @@
 # **Cottus** -  Manufacturing Execution System (MES) for Industry 5.0
 
 
-<p align="center" style="width: 70%">
+<p align="center" style="width: 20%">
 
 ![](logo.gif)
 
